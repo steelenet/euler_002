@@ -1,0 +1,6 @@
+D:\dev\projects\euler_002\euler_002_app\bin\Debug\euler_002_app.exe.config
+D:\dev\projects\euler_002\euler_002_app\bin\Debug\euler_002_app.exe
+D:\dev\projects\euler_002\euler_002_app\bin\Debug\euler_002_app.pdb
+D:\dev\projects\euler_002\euler_002_app\obj\Debug\euler_002_app.csprojResolveAssemblyReference.cache
+D:\dev\projects\euler_002\euler_002_app\obj\Debug\euler_002_app.exe
+D:\dev\projects\euler_002\euler_002_app\obj\Debug\euler_002_app.pdb
